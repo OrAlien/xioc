@@ -1,2 +1,2 @@
-# cpp-ioc-container
+# xioc
 A basic cpp ioc container.
